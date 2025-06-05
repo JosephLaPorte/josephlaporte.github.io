@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "What Does It Mean to Have Free Will? [Big Questions Online]"
-stack: "Put your stack or a short snippet here"
+stack: "According to one venerable tradition, with roots in St. Augustine, the mark of freedom..."
 pinned: true
 order: 1
 banner_image: "/assets/images/dunsscotus.jpg"
