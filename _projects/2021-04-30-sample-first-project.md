@@ -4,7 +4,7 @@ title: "What Does It Mean to Have Free Will?"
 stack: "Put your stack or a short snippet here"
 pinned: true
 order: 1
-banner_image: "/assets/images/dunsscotus.jpg"
+banner_image: "/assets/images/dunsscotus2.jpg"
 ---
 
 <h1 style="color: #cc0000">Sample project that is pinned</h1> 
