@@ -4,6 +4,7 @@ title: "Sample pinned project"
 stack: "Put your stack or a short snippet here"
 pinned: true
 order: 1
+banner_image: "/assets/images/JosephLaporte.jpg"
 ---
 
 <h1 style="color: #cc0000">Sample project that is pinned</h1> 
