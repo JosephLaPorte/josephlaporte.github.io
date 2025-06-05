@@ -7,4 +7,3 @@ layout: default
 I'm Joseph LaPorte, a philosopher at Hope College in Holland, MI. I work primarily in philosophy of science, philosophy of language, philosophy of religion, metaphysics, and epistemology.
 
 <img src="/assets/images/JosephLaporte.jpg" alt="A photo of me" width="300">
-![A photo of me](/assets/images/JosephLaporte.jpg)
