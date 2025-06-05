@@ -5,7 +5,7 @@ stack: "According to one venerable tradition, with roots in St. Augustine, the m
 pinned: true
 order: 1
 banner_image: "/assets/images/dunsscotus.jpg"
-githublink: "https://bigquestionsonline.com/2017/10/11/what-does-mean-have-free-will/"
+externallink: "https://bigquestionsonline.com/2017/10/11/what-does-mean-have-free-will/"
 ---
 
 <h1 style="color: #cc0000">Sample project that is pinned</h1> 
