@@ -1,9 +1,9 @@
 links:
-  - title: publications
-    url: /publications
-  - title: projects
-    url: /projects
-  - title: gallery
-    url: /gallery
+  - title: research
+    url: /research
+  - title: other writings
+    url: /other_writings
+  #- title: gallery
+  #  url: /gallery
   - title: contact
     url: /contact
