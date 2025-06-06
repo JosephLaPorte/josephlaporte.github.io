@@ -9,7 +9,7 @@ See my article on <a href="https://plato.stanford.edu/entries/rigid-designators/
 (see also <a href="https://www.youtube.com/watch?v=T5SoakDeVeQ">"The Rigid Designator,"</a> a frozen waterfall and ice climbing destination).
 
 ## Books
-- <a href="https://academic.oup.com/book/12203">Rigid designation and theoretical identities.</a> Oxford University Press (2013) [Reviewed by Steven P. Schwartz <a href="https://ndpr.nd.edu/reviews/rigid-designation-and-theoretical-identities/">here</a> and Ilhan Inan <a href="https://philarchive.org/archive/INARDA">here</a>]
+- <a href="https://academic.oup.com/book/12203">Rigid designation and theoretical identities.</a> Oxford University Press (2013)
 - <a href="https://www.cambridge.org/core/books/natural-kinds-and-conceptual-change/3D4C4384542F3BD43483298699628E6C">Natural kinds and conceptual change.</a> Cambridge University Press (2003)
 
 ## Journal articles
@@ -24,3 +24,10 @@ See my article on <a href="https://plato.stanford.edu/entries/rigid-designators/
 <a href="https://philpapers.org/rec/LAPEM">Essential Membership</a>. Philosophy of Science, 64(1), 96–112.  
 <a href="https://philpapers.org/rec/LAPREV">Reviews</a>. Sophia, 38(1), 122–166.  
 
+## Critical review of my work
+
+<a href="https://ndpr.nd.edu/reviews/natural-kinds-and-conceptual-change/">Review</a> of <i>Natural kinds and conceptual change</i> by John Dupre.  
+<a href="https://sites.ualberta.ca/~philosop/faculty/wilson/laporterev.pdf">Review</a> of <i>Natural kinds and conceptual change</i> by Robert A Wilson.  
+<a href="https://www.journals.uchicago.edu/doi/abs/10.1086/510006?journalCode=isis">Review</a> of <i>Natural kinds and conceptual change</i> by Gordon McOuat.  
+<a href="https://ndpr.nd.edu/reviews/natural-kinds-and-conceptual-change/">Review</a> of <i>Rigid designation and theoretical identities</i> by Stephen P Schwartz.
+<a href="https://philarchive.org/archive/INARDA">Review</a> of <i>Rigid designation and theoretical identities</i> by Ilhan Inan.
