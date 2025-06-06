@@ -14,6 +14,7 @@ See my article on <a href="https://plato.stanford.edu/entries/rigid-designators/
 
 ## Selected journal articles
 
+Not Depersonalized into Insignificance but Confirmed in Significance:  the Human Person Before God. For a festschrift in honor of John Crosby, ed. Mark Spencer (U. of St. Thomas).  Steubenville, OH:  Hildebrand Press. (2024 forthcoming)  
 <a href="https://digitalcommons.hope.edu/faculty_publications/163/">Theoretical Identity Statements, Their Truth, and Their Discovery</a>. The Semantics and Metaphysics of Natural Kinds, Routledge, 2010.  
 <a href="https://philpapers.org/rec/LAPRDF">Rigid Designators for Properties</a>. Philosophical Studies, 130(2), 321–336.  
 <a href="https://philpapers.org/rec/LAPSAR">Species as Relations: Examining a New Proposal</a>. Biology and Philosophy, 21(3), 381–393.  
