@@ -26,6 +26,7 @@ See my article on <a href="https://plato.stanford.edu/entries/rigid-designators/
 
 ## Some critical review of my work
 
+<a href="https://academic.oup.com/analysis/article-abstract/67/4/269/2740439">Note</a> on <i>Natural kinds and conceptual change</i> by Ian Hacking.  
 <a href="https://ndpr.nd.edu/reviews/natural-kinds-and-conceptual-change/">Review</a> of <i>Natural kinds and conceptual change</i> by John Dupre.  
 <a href="https://sites.ualberta.ca/~philosop/faculty/wilson/laporterev.pdf">Review</a> of <i>Natural kinds and conceptual change</i> by Robert A Wilson.  
 <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/510006?journalCode=isis">Review</a> of <i>Natural kinds and conceptual change</i> by Gordon McOuat.  
