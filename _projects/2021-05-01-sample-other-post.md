@@ -7,6 +7,7 @@ pinned: true
 order: 2
 banner_image: "/assets/images/orangejuice.jpg"
 usehighlight: true
+externallink: "https://aeon.co/essays/is-eating-natural-food-the-same-as-eating-whats-healthy"
 ---
 
 <h1 style="color: #cc0000">Jekyll Academic Deployment Status</h1>  
