@@ -6,7 +6,7 @@ layout: default
 <a href="https://scholar.google.com/citations?user=MJBagbcAAAAJ&hl=en">Google Scholar</a>
 
 See my article on <a href="https://plato.stanford.edu/entries/rigid-designators/">Rigid designators</a> in the Stanford Encyclopedia of Philosophy
-(see also <a href="https://plato.stanford.edu/entries/rigid-designators/">"The Rigid Designator,"</a> a frozen waterfall and ice climbing destination)
+(see also <a href="https://www.youtube.com/watch?v=T5SoakDeVeQ">"The Rigid Designator,"</a> a frozen waterfall and ice climbing destination)
 
 # Books
 - <a href="https://academic.oup.com/book/12203">Rigid designation and theoretical identities.</a> Oxford University Press (2013) [Reviewed by Steven P. Schwartz <a href="https://ndpr.nd.edu/reviews/rigid-designation-and-theoretical-identities/">here</a> and Ilhan Inan <a href="https://philarchive.org/archive/INARDA">here</a>]
