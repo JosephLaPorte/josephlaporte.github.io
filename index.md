@@ -10,4 +10,4 @@ I'm Joseph LaPorte, a philosopher at Hope College in Holland, MI. I work in phil
 
 Below is a recent photo of my family at Lemonjello's.  
 
-<img src="/assets/images/family2.jpg" alt="A photo of myself with family" width="330">
+<img src="/assets/images/family3.jpg" alt="A photo of myself with family" width="330">
