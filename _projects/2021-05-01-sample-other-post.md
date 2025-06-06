@@ -2,7 +2,7 @@
 layout: default
 title: "What Are Natural Foods? [Aeon]"
 stack: "What is a ‘natural’ food product? One common suggestion is that ‘natural’ things are not made of..."
-pinned: false
+pinned: true
 #githublink: https://github.com/yak-fumblepack/jekyll-academic
 order: 2
 banner_image: "/assets/images/orangejuice.jpg"
