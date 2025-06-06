@@ -24,5 +24,6 @@ stack: "HTML, SCSS, YAML, Liquid tags,"
 pinned: false
 order: 2
 usehighlight: true
+externallink: "https://aeon.co/essays/is-eating-natural-food-the-same-as-eating-whats-healthy"
 ---
 ```
