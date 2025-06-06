@@ -11,3 +11,6 @@ I'm Joseph LaPorte, a philosopher at Hope College in Holland, MI. My areas of in
 Below is a recent photo of my family at Lemonjello's.  
 
 <img src="/assets/images/family3.jpg" alt="A photo of myself with family" width="330">
+
+See also my collaborator <a href="https://english.washington.edu/people/charles-laporte" target="_blank">Charles LaPorte</a>.  
+Thanks to <a href="https://philiplaporte.github.io/" target="_blank">Philip LaPorte</a> for setting up this site.
