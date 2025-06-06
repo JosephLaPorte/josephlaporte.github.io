@@ -1,10 +1,11 @@
 ---
 layout: default
-title: "Sample project number 2"
-stack: "HTML, SCSS, YAML, Liquid tags,"
+title: "What Are Natural Foods? [Aeon]"
+stack: "What is a ‘natural’ food product? One common suggestion is that ‘natural’ things are not made of..."
 pinned: false
-githublink: https://github.com/yak-fumblepack/jekyll-academic
+#githublink: https://github.com/yak-fumblepack/jekyll-academic
 order: 2
+#banner_image: "/assets/images/dunsscotus.jpg"
 usehighlight: true
 ---
 
