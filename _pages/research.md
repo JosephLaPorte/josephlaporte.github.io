@@ -15,8 +15,7 @@ See my article on <a href="https://plato.stanford.edu/entries/rigid-designators/
 ## Selected articles
 
 Not Depersonalized into Insignificance but Confirmed in Significance:  the Human Person Before God. For a festschrift in honor of John Crosby, ed. Mark Spencer (U. of St. Thomas).  Steubenville, OH:  Hildebrand Press. (2024 forthcoming)  
-<a href="https://digitalcommons.hope.edu/faculty_publications/163/">Epistemological Matters Matter for Theological Understanding</a> in At the Intersection:  Where Philosophy and Theology Meet, ed. Edited by Daniel J. Fick and Jesse K. Mileo. Wipf & Stock, Eugene, OR. pp. 48-61. (2018) 
-<a href="https://philpapers.org/rec/LAPRDF">Rigid Designators for Properties</a>. Philosophical Studies, 130(2), 321–336.  
+<a href="https://digitalcommons.hope.edu/cgi/viewcontent.cgi?article=2557&context=faculty_publications">Epistemological Matters Matter for Theological Understanding</a> in At the Intersection:  Where Philosophy and Theology Meet, ed. Edited by Daniel J. Fick and Jesse K. Mileo. Wipf & Stock, Eugene, OR. pp. 48-61. (2018)  
 <a href="https://www.jstor.org/stable/3655627">Is There a Single Objective, Evolutionary Tree of Life?</a>. The Journal of Philosophy, 102(7), 357–374. (2005)  
 <a href="https://www.jstor.org/stable/188371">Essential Membership</a>. Philosophy of Science, 64(1), 96–112.  (1997)
 
