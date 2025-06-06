@@ -14,27 +14,15 @@ See my article on <a href="https://plato.stanford.edu/entries/rigid-designators/
 
 ## Journal articles
 
-<a href="https://digitalcommons.hope.edu/faculty_publications/905/">Rigid Designation and Theoretical Identities</a>. Oxford University Press, 2012.
-
 <a href="https://digitalcommons.hope.edu/faculty_publications/163/">Theoretical Identity Statements, Their Truth, and Their Discovery</a>. The Semantics and Metaphysics of Natural Kinds, Routledge, 2010.
-
 <a href="https://philpapers.org/rec/LAPRDF">Rigid Designators for Properties</a>. Philosophical Studies, 130(2), 321–336.
-
 <a href="https://philpapers.org/rec/LAPSAR">Species as Relations: Examining a New Proposal</a>. Biology and Philosophy, 21(3), 381–393.
-
 <a href="https://philpapers.org/rec/LAPITR">Is There a Single Objective, Evolutionary Tree of Life?</a>. Journal of Philosophy, 102(7), 357–374.
-
 <a href="https://philpapers.org/rec/LAPNKA-5">Natural Kinds and Conceptual Change</a>. Philosophical Quarterly, 55(221), 672–674.
-
-<a href="https://philpapers.org/rec/LAPDST">Does a Type Specimen Necessarily or Contingently Belong to Its Species?</a>. Biology and Philosophy, 18(4), 583–588.
-
+<a href="https://philpapers.org/rec/LAPDST">Does a Type Specimen Necessarily or Contingently Belong to Its Species?</a>. Biology and Philosophy, 18(4), 583–58
 <a href="https://philpapers.org/rec/LAPROJ">Review of Jody Hey: Genes, Categories, and Species</a>. British Journal for the Philosophy of Science, 54(4), 627–630.
-
 <a href="https://philpapers.org/rec/LAPRD">Rigid Designators</a>. Stanford Encyclopedia of Philosophy, 2008.
-
-<a href="https://philpapers.org/rec/LAPRAK">Rigidity and Kind</a>. Philosophical Studies, 97(3), 293–316.
-
+<a href="https://philpapers.org/rec/LAPRAK">Rigidity and Kind</a>. Philosophical Studies, 97(3), 293–31
 <a href="https://philpapers.org/rec/LAPEM">Essential Membership</a>. Philosophy of Science, 64(1), 96–112.
-
 <a href="https://philpapers.org/rec/LAPREV">Reviews</a>. Sophia, 38(1), 122–166.
 
