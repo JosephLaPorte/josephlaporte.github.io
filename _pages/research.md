@@ -12,7 +12,7 @@ See my article on <a href="https://plato.stanford.edu/entries/rigid-designators/
 - <a href="https://academic.oup.com/book/12203">Rigid designation and theoretical identities.</a> Oxford University Press (2013)
 - <a href="https://www.cambridge.org/core/books/natural-kinds-and-conceptual-change/3D4C4384542F3BD43483298699628E6C">Natural kinds and conceptual change.</a> Cambridge University Press (2003)
 
-## Journal articles
+## Selected journal articles
 
 <a href="https://digitalcommons.hope.edu/faculty_publications/163/">Theoretical Identity Statements, Their Truth, and Their Discovery</a>. The Semantics and Metaphysics of Natural Kinds, Routledge, 2010.  
 <a href="https://philpapers.org/rec/LAPRDF">Rigid Designators for Properties</a>. Philosophical Studies, 130(2), 321–336.  
