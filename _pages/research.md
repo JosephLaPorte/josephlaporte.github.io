@@ -15,7 +15,9 @@ See my article on <a href="https://plato.stanford.edu/entries/rigid-designators/
 ## Journal articles
 
 <a href="https://digitalcommons.hope.edu/faculty_publications/163/">Theoretical Identity Statements, Their Truth, and Their Discovery</a>. The Semantics and Metaphysics of Natural Kinds, Routledge, 2010.
+
 <a href="https://philpapers.org/rec/LAPRDF">Rigid Designators for Properties</a>. Philosophical Studies, 130(2), 321–336.
+
 <a href="https://philpapers.org/rec/LAPSAR">Species as Relations: Examining a New Proposal</a>. Biology and Philosophy, 21(3), 381–393.
 <a href="https://philpapers.org/rec/LAPITR">Is There a Single Objective, Evolutionary Tree of Life?</a>. Journal of Philosophy, 102(7), 357–374.
 <a href="https://philpapers.org/rec/LAPNKA-5">Natural Kinds and Conceptual Change</a>. Philosophical Quarterly, 55(221), 672–674.
