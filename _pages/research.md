@@ -24,7 +24,7 @@ See my article on <a href="https://plato.stanford.edu/entries/rigid-designators/
 <a href="https://philpapers.org/rec/LAPEM">Essential Membership</a>. Philosophy of Science, 64(1), 96–112.  
 <a href="https://philpapers.org/rec/LAPREV">Reviews</a>. Sophia, 38(1), 122–166.  
 
-## Critical review of my work
+## Some critical review of my work
 
 <a href="https://ndpr.nd.edu/reviews/natural-kinds-and-conceptual-change/">Review</a> of <i>Natural kinds and conceptual change</i> by John Dupre.  
 <a href="https://sites.ualberta.ca/~philosop/faculty/wilson/laporterev.pdf">Review</a> of <i>Natural kinds and conceptual change</i> by Robert A Wilson.  
