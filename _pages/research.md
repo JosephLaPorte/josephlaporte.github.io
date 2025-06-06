@@ -25,4 +25,4 @@ Not Depersonalized into Insignificance but Confirmed in Significance:  the Human
 <a href="https://academic.oup.com/analysis/article-abstract/67/4/269/2740439">Note</a> on <i>Natural kinds and conceptual change</i> by Ian Hacking.  
 <a href="https://ndpr.nd.edu/reviews/natural-kinds-and-conceptual-change/">Review</a> of <i>Natural kinds and conceptual change</i> by John Dupre.  
 <a href="https://www.cambridge.org/core/journals/philosophy-of-science/article/abs/joseph-laporte-natural-kinds-and-conceptual-change-cambridge-cambridge-university-press-2003-232-pp-7000-cloth/B4C9A3E1278B2BF3A94052FACFD79143">Review</a> of <i>Natural kinds and conceptual change</i> by Muhammad Ali Khalidi.  
-<a href="https://ndpr.nd.edu/reviews/rigid-designation-and-theoretical-identities/"target="_blank">Review</a> of <i>Rigid designation and theoretical identities</i> by Stephen P Schwartz.
+<a href="https://ndpr.nd.edu/reviews/rigid-designation-and-theoretical-identities/" target="_blank">Review</a> of <i>Rigid designation and theoretical identities</i> by Stephen P Schwartz.
