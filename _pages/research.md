@@ -28,8 +28,5 @@ See my article on <a href="https://plato.stanford.edu/entries/rigid-designators/
 
 <a href="https://academic.oup.com/analysis/article-abstract/67/4/269/2740439">Note</a> on <i>Natural kinds and conceptual change</i> by Ian Hacking.  
 <a href="https://ndpr.nd.edu/reviews/natural-kinds-and-conceptual-change/">Review</a> of <i>Natural kinds and conceptual change</i> by John Dupre.  
-<a href="https://www.cambridge.org/core/journals/philosophy-of-science/article/abs/joseph-laporte-natural-kinds-and-conceptual-change-cambridge-cambridge-university-press-2003-232-pp-7000-cloth/B4C9A3E1278B2BF3A94052FACFD79143">Review</a> of <i>Natural kinds and conceptual change</i> by Muhammad Ali Khalidi. 
-<a href="https://sites.ualberta.ca/~philosop/faculty/wilson/laporterev.pdf">Review</a> of <i>Natural kinds and conceptual change</i> by Robert A Wilson.  
-<a href="https://www.journals.uchicago.edu/doi/abs/10.1086/510006?journalCode=isis">Review</a> of <i>Natural kinds and conceptual change</i> by Gordon McOuat.  
-<a href="https://ndpr.nd.edu/reviews/rigid-designation-and-theoretical-identities/">Review</a> of <i>Rigid designation and theoretical identities</i> by Stephen P Schwartz.  
-<a href="https://philarchive.org/archive/INARDA">Review</a> of <i>Rigid designation and theoretical identities</i> by Ilhan Inan.
+<a href="https://www.cambridge.org/core/journals/philosophy-of-science/article/abs/joseph-laporte-natural-kinds-and-conceptual-change-cambridge-cambridge-university-press-2003-232-pp-7000-cloth/B4C9A3E1278B2BF3A94052FACFD79143">Review</a> of <i>Natural kinds and conceptual change</i> by Muhammad Ali Khalidi.  
+<a href="https://ndpr.nd.edu/reviews/rigid-designation-and-theoretical-identities/">Review</a> of <i>Rigid designation and theoretical identities</i> by Stephen P Schwartz.
