@@ -5,7 +5,7 @@ stack: "What is a ‘natural’ food product? One common suggestion is that ‘n
 pinned: false
 #githublink: https://github.com/yak-fumblepack/jekyll-academic
 order: 2
-#banner_image: "/assets/images/dunsscotus.jpg"
+banner_image: "/assets/images/orangejuice.jpg"
 usehighlight: true
 ---
 
