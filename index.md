@@ -12,4 +12,4 @@ Below is a recent photo of my family at Lemonjello's.
 
 <img src="/assets/images/family3.jpg" alt="A photo of myself with family" width="330">
 
-See also <a href="https://philiplaporte.github.io/" target="_blank">Philip LaPorte</a>, <a href="https://english.washington.edu/people/charles-laporte" target="_blank">Charles LaPorte</a>. Thanks to Philip for setting up this site.
+See also <a href="https://philiplaporte.github.io/" target="_blank">Philip LaPorte</a>, <a href="https://english.washington.edu/people/charles-laporte" target="_blank">Charles LaPorte</a>.
